@@ -295,3 +295,111 @@ Modern weather dashboard using the OpenWeather API with responsive UI and asynch
 </tr>
 
 </table>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TejpalSandhu&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejpalSandhu&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=TejpalSandhu&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📚 Currently Exploring
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Backend Engineering
+
+- Advanced Express.js
+- Scalable REST API Design
+- Authentication & Authorization
+- Event-Driven Architecture
+
+</td>
+
+<td width="50%">
+
+### Cloud & DevOps
+
+- Docker
+- AWS
+- CI/CD
+- Deployment Strategies
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Computer Science
+
+- Data Structures & Algorithms
+- System Design
+- Design Patterns
+
+</td>
+
+<td>
+
+### Currently Building
+
+- Production-grade Web Applications
+- Backend-focused Projects
+- Open Source Ready Repositories
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/TejpalSandhu">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/tejpalsandhu007">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:tejpal.s.sandhu007@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<i>
+Thanks for visiting my profile! Feel free to explore my repositories or connect with me.
+</i>
+
+</p>
