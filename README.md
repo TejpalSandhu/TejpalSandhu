@@ -65,16 +65,18 @@ I enjoy transforming ideas into real products using modern web technologies whil
 <tr>
 <td valign="top" width="50%">
 
-## 💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,c,js,python" height="40"/>
-<br/><sub>C++, C, JavaScript, Python</sub>
+### 💻 Languages
+<hr/>
+<p><img src="https://skillicons.dev/icons?i=cpp,c,js,python" height="40"/></p>
+<sub>C++, C, JavaScript, Python</sub>
 
 </td>
 <td valign="top" width="50%">
 
-## 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" height="40"/>
-<br/><sub>Also experienced with: TanStack Query, DaisyUI</sub>
+### 🎨 Frontend
+<hr/>
+<p><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" height="40"/></p>
+<sub>Also experienced with: TanStack Query, DaisyUI</sub>
 
 </td>
 </tr>
@@ -82,16 +84,18 @@ I enjoy transforming ideas into real products using modern web technologies whil
 <tr>
 <td valign="top">
 
-## ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/>
-<br/><sub>REST APIs, JWT Auth, WebSockets, Inngest</sub>
+### ⚙️ Backend
+<hr/>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/></p>
+<sub>REST APIs, JWT Auth, WebSockets, Inngest</sub>
 
 </td>
 <td valign="top">
 
-## 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/>
-<br/><sub>MongoDB, Mongoose, MySQL, Sequelize</sub>
+### 🗄️ Database
+<hr/>
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/></p>
+<sub>MongoDB, Mongoose, MySQL, Sequelize</sub>
 
 </td>
 </tr>
@@ -99,16 +103,18 @@ I enjoy transforming ideas into real products using modern web technologies whil
 <tr>
 <td valign="top">
 
-## 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="40"/>
-<br/><sub>Git, GitHub, VS Code, Postman</sub>
+### 🛠️ Tools
+<hr/>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="40"/></p>
+<sub>Git, GitHub, VS Code, Postman</sub>
 
 </td>
 <td valign="top">
 
-## 📚 Currently Exploring
-<img src="https://skillicons.dev/icons?i=docker,aws,ts" height="40"/>
-<br/><sub>Docker, AWS, TypeScript, System Design</sub>
+### 📚 Currently Exploring
+<hr/>
+<p><img src="https://skillicons.dev/icons?i=docker,aws,ts" height="40"/></p>
+<sub>Docker, AWS, TypeScript, System Design</sub>
 
 </td>
 </tr>
