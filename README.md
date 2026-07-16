@@ -263,11 +263,9 @@ Modern weather dashboard using the OpenWeather API with responsive UI and asynch
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TejpalSandhu&theme=github_dark"/>
+<img height="170em" src="https://github-readme-stats-five-pi-3ajjvy7k5v.vercel.app/api?username=TejpalSandhu&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TejpalSandhu&theme=github_dark"/>
-
-</p>
+<img height="170em" src="https://github-readme-stats-five-pi-3ajjvy7k5v.vercel.app/api/top-langs/?username=TejpalSandhu&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -276,7 +274,6 @@ Modern weather dashboard using the OpenWeather API with responsive UI and asynch
 <img src="https://streak-stats.demolab.com?user=TejpalSandhu&theme=github-dark&hide_border=true"/>
 
 </p>
-
 ---
 
 # 📚 Currently Exploring
