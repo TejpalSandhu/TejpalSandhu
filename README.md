@@ -61,100 +61,58 @@ I enjoy transforming ideas into real products using modern web technologies whil
 ---
 # ⚙️ Technologies
 
-<table>
-
+<table width="100%">
 <tr>
-
 <td valign="top" width="50%">
 
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,js,python,mysql" />
-</p>
+## 💻 Languages
+<img src="https://skillicons.dev/icons?i=cpp,c,js,python" height="40"/>
 
 </td>
-
 <td valign="top" width="50%">
 
-### 🎨 Frontend
+## 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" height="40"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
-</p>
-
-Also experienced with
-
-- TanStack Query
-- DaisyUI
+**Also experienced with:** TanStack Query, DaisyUI
 
 </td>
-
 </tr>
 
 <tr>
-
 <td valign="top">
 
-### ⚙️ Backend
+## ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-Experienced with
-
-- REST APIs
-- JWT Authentication
-- WebSockets
-- Inngest
+**Experienced with:** REST APIs, JWT Auth, WebSockets, Inngest
 
 </td>
-
 <td valign="top">
 
-### 🗄️ Database
+## 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-- MongoDB
-- Mongoose
-- MySQL
-- Sequelize
+**Experienced with:** MongoDB, Mongoose, MySQL, Sequelize
 
 </td>
-
 </tr>
 
 <tr>
-
 <td valign="top">
 
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+## 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="40"/>
 
 </td>
-
 <td valign="top">
 
-### 📚 Currently Exploring
-
-- Docker
-- AWS
-- TypeScript
-- System Design
+## 📚 Currently Exploring
+Docker • AWS • TypeScript • System Design
 
 </td>
-
 </tr>
-
 </table>
-
 ---
 
 # 🧠 Core Computer Science
