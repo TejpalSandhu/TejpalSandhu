@@ -59,15 +59,17 @@ I enjoy transforming ideas into real products using modern web technologies whil
 - 🌱 Learning by building real-world software
 
 ---
+---
+
 # ⚙️ Technologies
 
 <div align="center">
 
-<table width="90%">
+<table width="100%">
 
 <tr>
 
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
 ### 💻 Languages
 
@@ -77,7 +79,7 @@ I enjoy transforming ideas into real products using modern web technologies whil
 
 </td>
 
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
 ### 🎨 Frontend
 
@@ -85,7 +87,7 @@ I enjoy transforming ideas into real products using modern web technologies whil
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 </p>
 
-Also experienced with
+**Also experienced with**
 
 - TanStack Query
 - DaisyUI
@@ -96,7 +98,7 @@ Also experienced with
 
 <tr>
 
-<td valign="top">
+<td width="50%" valign="top">
 
 ### ⚙️ Backend
 
@@ -104,7 +106,7 @@ Also experienced with
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-Experienced with
+**Experienced with**
 
 - REST APIs
 - JWT Authentication
@@ -113,9 +115,9 @@ Experienced with
 
 </td>
 
-<td valign="top">
+<td width="50%" valign="top">
 
-### 🗄️ Database
+### 🗄️ Databases & ORM / ODM
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
@@ -132,7 +134,7 @@ Experienced with
 
 <tr>
 
-<td valign="top">
+<td width="50%" valign="top">
 
 ### 🛠️ Tools
 
@@ -142,7 +144,7 @@ Experienced with
 
 </td>
 
-<td valign="top">
+<td width="50%" valign="top">
 
 ### 📚 Currently Exploring
 
@@ -158,6 +160,8 @@ Experienced with
 </table>
 
 </div>
+
+---
 
 ---
 
