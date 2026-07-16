@@ -65,11 +65,8 @@ I enjoy transforming ideas into real products using modern web technologies whil
 
 # ⚙️ Technologies
 
-<table style="width:100%">
-<colgroup>
-<col style="width:50%">
-<col style="width:50%">
-</colgroup>
+<div align="center">
+<table>
 <tr>
 <td valign="top">
 
@@ -143,7 +140,7 @@ I enjoy transforming ideas into real products using modern web technologies whil
 </td>
 </tr>
 </table>
-
+</div>
 
 ---
 
