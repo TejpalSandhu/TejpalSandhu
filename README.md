@@ -164,7 +164,7 @@ Projects that best represent my software engineering skills, problem-solving abi
 <td width="50%" valign="top">
 
 <a href="https://github.com/TejpalSandhu/CodeSphere">
-<img src="images/codesphere.png" width="100%"/>
+<img src="images/codesphere.png" width="100%" height="220" style="object-fit:cover;"/>
 </a>
 
 ### 🚀 CodeSphere
@@ -188,7 +188,7 @@ Real-time collaborative coding interview platform featuring live video calls, sh
 <td width="50%" valign="top">
 
 <a href="https://github.com/TejpalSandhu/CartPole_AI">
-<img src="images/cartpole.png" width="100%"/>
+<img src="images/cartpole.png" width="100%" height="220" style="object-fit:cover;"/>
 </a>
 
 ### 🤖 CartPole AI
@@ -212,7 +212,7 @@ Deep Reinforcement Learning implementation where an intelligent agent learns to 
 <td width="50%" valign="top">
 
 <a href="https://github.com/TejpalSandhu/cv-application">
-<img src="images/cvbuilder.png" width="100%"/>
+<img src="images/cvbuilder.png" width="100%" height="220" style="object-fit:cover;"/>
 </a>
 
 ### 📄 Dynamic CV Builder
@@ -236,7 +236,7 @@ Interactive resume builder with live preview, customizable templates, and instan
 <td width="50%" valign="top">
 
 <a href="https://github.com/TejpalSandhu/Weather-app">
-<img src="images/weather.png" width="100%"/>
+<img src="images/weather.png" width="100%" height="220" style="object-fit:cover;"/>
 </a>
 
 ### 🌦 Weather App
