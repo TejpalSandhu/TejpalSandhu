@@ -7,7 +7,8 @@ Hi, I'm Tejpal Singh Sandhu 👋
 </h1>
 
 <h3 align="center">
-Full Stack Developer • ECE Undergraduate
+Full Stack Developer • Backend Enthusiast
+
 </h3>
 
 <p align="center">
@@ -34,6 +35,83 @@ Building scalable web applications and solving real-world engineering problems t
 
 ## 👨‍💻 About
 
-I'm an Electronics & Communication Engineering undergraduate at **Thapar Institute of Engineering & Technology** with a strong interest in **Full Stack Development**, **Backend Engineering**, and **Scalable Web Applications**.
+- 🎓 B.E. Electronics & Communication Engineering @ TIET
+- 💻 Full Stack Developer with a strong interest in Backend Engineering
+- 🚀 Building scalable web applications using React, Node.js, Express, MongoDB, and MySQL
+- 📚 Strengthening Data Structures & Algorithms while exploring System Design
+- 🌱 Always learning through real-world projects and continuous improvement
 
-I enjoy building production-inspired software, learning modern technologies, and strengthening my Data Structures & Algorithms skills while creating real-world projects.
+---
+
+# ⚙️ Technologies
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,python,mysql" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+</p>
+
+**Also Experienced With**
+
+- TanStack Query
+
+---
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+**Also Experienced With**
+
+- REST APIs
+- JWT Authentication
+- WebSockets
+- Inngest
+
+---
+
+### 🗄 Databases & ORM / ODM
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+- MongoDB
+- Mongoose
+- MySQL
+- Sequelize
+
+---
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+### 📚 Currently Exploring
+
+- Docker
+- AWS
+- TypeScript
+- System Design
+
+---
+
+### 🧠 Core CS
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+- Operating Systems
+- Computer Networks
