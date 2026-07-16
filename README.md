@@ -1,19 +1,26 @@
 <p align="center">
-  <img src="images/Banner.png" width="100%" alt="Banner"/>
+  <img src="images/Banner.png" alt="Banner" width="100%" />
 </p>
 
+<br>
+
 <h1 align="center">
-Hi, I'm Tejpal Singh Sandhu 👋
+Hi, I'm <b>Tejpal Singh Sandhu</b> 👋
 </h1>
 
 <h3 align="center">
-Full Stack Developer • Backend Enthusiast
-
+Full Stack Developer
 </h3>
 
 <p align="center">
-Building scalable web applications and solving real-world engineering problems through software.
+Building production-ready web applications with modern JavaScript technologies.
 </p>
+
+<p align="center">
+ECE Undergraduate • Backend Enthusiast • Problem Solver
+</p>
+
+<br>
 
 <p align="center">
 
@@ -33,17 +40,29 @@ Building scalable web applications and solving real-world engineering problems t
 
 ---
 
-## 👨‍💻 About
+# 👨🏻‍💻 About
+
+I'm an **Electronics & Communication Engineering undergraduate** at **Thapar Institute of Engineering & Technology** with a passion for building **production-quality web applications**.
+
+I enjoy transforming ideas into real products using modern web technologies while continuously improving my understanding of **Backend Engineering**, **Software Design**, and **Data Structures & Algorithms**.
+
+### A little about me
 
 - 🎓 B.E. Electronics & Communication Engineering @ TIET
 - 💻 Full Stack Developer with a strong interest in Backend Engineering
-- 🚀 Building scalable web applications using React, Node.js, Express, MongoDB, and MySQL
-- 📚 Strengthening Data Structures & Algorithms while exploring System Design
-- 🌱 Always learning through real-world projects and continuous improvement
+- 🚀 Building scalable web applications using React, Node.js, Express, MongoDB & MySQL
+- 📚 Currently strengthening Data Structures & Algorithms and System Design
+- 🌱 Learning by building real-world software
 
 ---
 
 # ⚙️ Technologies
+
+<table>
+
+<tr>
+
+<td valign="top" width="50%">
 
 ### 💻 Languages
 
@@ -51,17 +70,28 @@ Building scalable web applications and solving real-world engineering problems t
 <img src="https://skillicons.dev/icons?i=cpp,c,js,python,mysql" />
 </p>
 
+</td>
+
+<td valign="top" width="50%">
+
 ### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 </p>
 
-**Also Experienced With**
+Also experienced with
 
 - TanStack Query
+- DaisyUI
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
 
 ### ⚙️ Backend
 
@@ -69,16 +99,18 @@ Building scalable web applications and solving real-world engineering problems t
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Also Experienced With**
+Experienced with
 
 - REST APIs
 - JWT Authentication
 - WebSockets
 - Inngest
 
----
+</td>
 
-### 🗄 Databases & ORM / ODM
+<td valign="top">
+
+### 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
@@ -89,15 +121,23 @@ Building scalable web applications and solving real-world engineering problems t
 - MySQL
 - Sequelize
 
----
+</td>
 
-### 🛠 Tools
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### 🛠️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
----
+</td>
+
+<td valign="top">
 
 ### 📚 Currently Exploring
 
@@ -106,9 +146,15 @@ Building scalable web applications and solving real-world engineering problems t
 - TypeScript
 - System Design
 
+</td>
+
+</tr>
+
+</table>
+
 ---
 
-### 🧠 Core CS
+# 🧠 Core Computer Science
 
 - Data Structures & Algorithms
 - Object-Oriented Programming
