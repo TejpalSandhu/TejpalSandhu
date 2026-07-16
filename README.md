@@ -61,117 +61,47 @@ I enjoy transforming ideas into real products using modern web technologies whil
 ---
 ---
 
-# ⚙️ Technologies
+## ⚙️ Technologies
 
-<div align="center">
-
-<table width="100%">
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,c,js,python,mysql" />
 </p>
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🎨 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 </p>
 
-**Also experienced with**
-
-- TanStack Query
-- DaisyUI
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚙️ Backend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-**Experienced with**
-
-- REST APIs
-- JWT Authentication
-- WebSockets
-- Inngest
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🗄️ Databases & ORM / ODM
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-- MongoDB
-- Mongoose
-- MySQL
-- Sequelize
+**ORM / ODM:** Mongoose • Sequelize
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🛠️ Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-</td>
+### Currently Exploring
 
-<td width="50%" valign="top">
+Docker • AWS • TypeScript • System Design
 
-### 📚 Currently Exploring
+### Core CS
 
-- Docker
-- AWS
-- TypeScript
-- System Design
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
----
-
-# 🧠 Core Computer Science
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS
-- Operating Systems
-- Computer Networks
+DSA • OOP • DBMS • Operating Systems • Computer Networks
 
 ---
 
