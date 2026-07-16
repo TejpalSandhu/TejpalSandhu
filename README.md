@@ -59,9 +59,6 @@ I enjoy transforming ideas into real products using modern web technologies whil
 - 🌱 Learning by building real-world software
 
 ---
----
-
----
 
 # ⚙️ Technologies
 
