@@ -65,62 +65,48 @@ I enjoy transforming ideas into real products using modern web technologies whil
 
 # ⚙️ Technologies
 
-<div align="center">
-
 <table width="100%">
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 💻 Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,c,js,python,mysql" />
 </p>
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🎨 Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 </p>
 
 **Also experienced with**
-
 - TanStack Query
 - DaisyUI
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ### ⚙️ Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 **Experienced with**
-
 - REST APIs
 - JWT Authentication
 - WebSockets
 - Inngest
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🗄️ Databases & ORM / ODM
-
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
@@ -131,39 +117,29 @@ I enjoy transforming ideas into real products using modern web technologies whil
 - Sequelize
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🛠️ Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 📚 Currently Exploring
-
 - Docker
 - AWS
 - TypeScript
 - System Design
 
 </td>
-
 </tr>
-
 </table>
 
-</div>
-
----
 
 ---
 
