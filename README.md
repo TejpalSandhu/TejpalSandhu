@@ -275,6 +275,7 @@ Modern weather dashboard using the OpenWeather API with responsive UI and asynch
 
 </p>
 
+---
 
 # 📚 Currently Exploring
 
