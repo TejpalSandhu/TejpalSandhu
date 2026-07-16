@@ -61,7 +61,9 @@ I enjoy transforming ideas into real products using modern web technologies whil
 ---
 # ⚙️ Technologies
 
-<table>
+<div align="center">
+
+<table width="90%">
 
 <tr>
 
@@ -154,6 +156,8 @@ Experienced with
 </tr>
 
 </table>
+
+</div>
 
 ---
 
