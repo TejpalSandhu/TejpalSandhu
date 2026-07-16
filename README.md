@@ -274,7 +274,7 @@ Modern weather dashboard using the OpenWeather API with responsive UI and asynch
 <img src="https://streak-stats.demolab.com?user=TejpalSandhu&theme=github-dark&hide_border=true"/>
 
 </p>
----
+
 
 # 📚 Currently Exploring
 
