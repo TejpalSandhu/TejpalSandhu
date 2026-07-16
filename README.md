@@ -67,14 +67,14 @@ I enjoy transforming ideas into real products using modern web technologies whil
 
 ## 💻 Languages
 <img src="https://skillicons.dev/icons?i=cpp,c,js,python" height="40"/>
+<br/><sub>C++, C, JavaScript, Python</sub>
 
 </td>
 <td valign="top" width="50%">
 
 ## 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" height="40"/>
-
-**Also experienced with:** TanStack Query, DaisyUI
+<br/><sub>Also experienced with: TanStack Query, DaisyUI</sub>
 
 </td>
 </tr>
@@ -84,16 +84,14 @@ I enjoy transforming ideas into real products using modern web technologies whil
 
 ## ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/>
-
-**Experienced with:** REST APIs, JWT Auth, WebSockets, Inngest
+<br/><sub>REST APIs, JWT Auth, WebSockets, Inngest</sub>
 
 </td>
 <td valign="top">
 
 ## 🗄️ Database
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/>
-
-**Experienced with:** MongoDB, Mongoose, MySQL, Sequelize
+<br/><sub>MongoDB, Mongoose, MySQL, Sequelize</sub>
 
 </td>
 </tr>
@@ -103,12 +101,14 @@ I enjoy transforming ideas into real products using modern web technologies whil
 
 ## 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="40"/>
+<br/><sub>Git, GitHub, VS Code, Postman</sub>
 
 </td>
 <td valign="top">
 
 ## 📚 Currently Exploring
-Docker • AWS • TypeScript • System Design
+<img src="https://skillicons.dev/icons?i=docker,aws,ts" height="40"/>
+<br/><sub>Docker, AWS, TypeScript, System Design</sub>
 
 </td>
 </tr>
