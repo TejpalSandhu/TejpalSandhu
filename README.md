@@ -59,65 +59,138 @@ I enjoy transforming ideas into real products using modern web technologies whil
 - 🌱 Learning by building real-world software
 
 ---
-# ⚙️ Technologies
+---
 
-<table width="100%">
-<tr height="140">
-<td valign="top" width="50%">
+# 🚀 Highlighted Projects
 
-**💻 Languages**
-<hr/>
-<img src="https://skillicons.dev/icons?i=cpp,c,js,python" height="40"/><br/>
-<sub>C++, C, JavaScript, Python</sub>
+<p align="center">
+Projects that best represent my software engineering skills, problem-solving ability, and passion for building production-quality applications.
+</p>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/TejpalSandhu/CodeSphere">
+
+<img src="images/codesphere.png" width="100%"/>
+
+</a>
+
+### 🚀 CodeSphere
+
+Real-time collaborative coding interview platform featuring live video calls, shared code editor, integrated chat, and multi-language code execution.
+
+**Tech Stack**
+
+`React` • `Node.js` • `Express` • `MongoDB` • `WebRTC` • `WebSockets` • `Inngest`
+
+<p>
+
+<a href="https://github.com/TejpalSandhu/CodeSphere">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Uncomment after deployment -->
+
+<!--
+<a href="#">
+<img src="https://img.shields.io/badge/Live Demo-0A66C2?style=for-the-badge"/>
+</a>
+-->
+
+</p>
 
 </td>
-<td valign="top" width="50%">
 
-**🎨 Frontend**
-<hr/>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" height="40"/><br/>
-<sub>Also experienced with: TanStack Query, DaisyUI</sub>
+<td width="50%" valign="top">
+
+<a href="https://github.com/TejpalSandhu/CartPole_AI">
+
+<img src="images/cartpole.png" width="100%"/>
+
+</a>
+
+### 🤖 CartPole AI
+
+Deep Reinforcement Learning implementation where an intelligent agent learns to balance a pole using Deep Q-Learning.
+
+**Tech Stack**
+
+`Python` • `PyTorch` • `OpenAI Gym`
+
+<p>
+
+<a href="https://github.com/TejpalSandhu/CartPole_AI">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 </td>
+
 </tr>
 
-<tr height="140">
-<td valign="top">
+<tr>
 
-**⚙️ Backend**
-<hr/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/><br/>
-<sub>REST APIs, JWT Auth, WebSockets, Inngest</sub>
+<td width="50%" valign="top">
+
+<a href="https://github.com/TejpalSandhu/cv-application">
+
+<img src="images/cvbuilder.png" width="100%"/>
+
+</a>
+
+### 📄 Dynamic CV Builder
+
+Interactive resume builder with live preview, customizable templates, and instant PDF export.
+
+**Tech Stack**
+
+`React` • `JavaScript` • `HTML` • `CSS`
+
+<p>
+
+<a href="https://github.com/TejpalSandhu/cv-application">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 </td>
-<td valign="top">
 
-**🗄️ Database**
-<hr/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/><br/>
-<sub>MongoDB, Mongoose, MySQL, Sequelize</sub>
+<td width="50%" valign="top">
+
+<a href="https://github.com/TejpalSandhu/Weather-app">
+
+<img src="images/weather.png" width="100%"/>
+
+</a>
+
+### 🌦 Weather App
+
+Modern weather dashboard using the OpenWeather API with responsive UI and asynchronous data fetching.
+
+**Tech Stack**
+
+`JavaScript` • `REST API` • `HTML` • `CSS`
+
+<p>
+
+<a href="https://github.com/TejpalSandhu/Weather-app">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 </td>
+
 </tr>
 
-<tr height="140">
-<td valign="top">
-
-**🛠️ Tools**
-<hr/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="40"/><br/>
-<sub>Git, GitHub, VS Code, Postman</sub>
-
-</td>
-<td valign="top">
-
-**📚 Currently exploring**
-<hr/>
-<img src="https://skillicons.dev/icons?i=docker,aws,ts" height="40"/><br/>
-<sub>Docker, AWS, TypeScript, System design</sub>
-
-</td>
-</tr>
 </table>
 
 ---
