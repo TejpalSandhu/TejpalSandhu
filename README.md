@@ -63,46 +63,35 @@ I enjoy transforming ideas into real products using modern web technologies whil
 
 ## ⚙️ Technologies
 
+<p align="center">
+
 ### Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=cpp,c,js,python,mysql" />
-</p>
 
-### Frontend
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
-</p>
+### Full Stack Development
 
-### Backend
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,nodejs,express,mongodb" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-**ORM / ODM:** Mongoose • Sequelize
+<br><br>
 
 ### Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
 </p>
 
-### Currently Exploring
+---
 
-Docker • AWS • TypeScript • System Design
+🧠 **Core CS**
 
-### Core CS
+`DSA` • `OOP` • `DBMS` • `Operating Systems` • `Computer Networks`
 
-DSA • OOP • DBMS • Operating Systems • Computer Networks
+🌱 **Currently Exploring**
 
+`Docker` • `AWS` • `TypeScript` • `System Design`
 ---
 
 # 🚀 Highlighted Projects
