@@ -311,88 +311,59 @@ Modern weather dashboard using the OpenWeather API with responsive UI and asynch
 
 # 📚 Currently Exploring
 
+<div align="center">
 <table>
-
 <tr>
+<td valign="top">
 
-<td width="50%">
-
-### Backend Engineering
-
+**Backend Engineering**
 - Advanced Express.js
 - Scalable REST API Design
 - Authentication & Authorization
 - Event-Driven Architecture
 
 </td>
+<td valign="top">
 
-<td width="50%">
-
-### Cloud & DevOps
-
+**Cloud & DevOps**
 - Docker
 - AWS
 - CI/CD
 - Deployment Strategies
 
 </td>
-
 </tr>
-
 <tr>
+<td valign="top">
 
-<td>
-
-### Computer Science
-
+**Computer Science**
 - Data Structures & Algorithms
 - System Design
 - Design Patterns
 
 </td>
+<td valign="top">
 
-<td>
-
-### Currently Building
-
+**Currently Building**
 - Production-grade Web Applications
 - Backend-focused Projects
 - Open Source Ready Repositories
 
 </td>
-
 </tr>
-
 </table>
+</div>
 
 ---
 
 # 🤝 Let's Connect
 
 <p align="center">
-
-<a href="https://github.com/TejpalSandhu">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/tejpalsandhu007">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:tejpal.s.sandhu007@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
+<a href="https://github.com/TejpalSandhu"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/tejpalsandhu007"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:tejpal.s.sandhu007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 </p>
 
 <p align="center">
-
-<i>
-Thanks for visiting my profile! Feel free to explore my repositories or connect with me.
-</i>
+<i>Thanks for visiting my profile! Feel free to explore my repositories or connect with me.</i>
+</p>
 
 </p>
