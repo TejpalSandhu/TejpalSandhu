@@ -167,13 +167,14 @@ I enjoy transforming ideas into real products using modern web technologies whil
 
 ---
 
-🧠 **Core CS**
+# 🧠 Core Computer Science
 
-`DSA` • `OOP` • `DBMS` • `Operating Systems` • `Computer Networks`
-
-🌱 **Currently Exploring**
-
-`Docker` • `AWS` • `TypeScript` • `System Design`
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+- Operating Systems
+- Computer Networks
+  
 ---
 
 # 🚀 Highlighted Projects
