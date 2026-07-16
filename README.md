@@ -13,7 +13,7 @@ Full Stack Developer
 </h3>
 
 <p align="center">
-Building production-ready web applications with modern JavaScript technologies.
+Building scalable web applications with a focus on clean architecture, backend engineering, and exceptional user experiences.
 </p>
 
 <p align="center">
@@ -29,16 +29,24 @@ ECE Undergraduate • Backend Enthusiast • Problem Solver
 </a>
 
 <a href="https://linkedin.com/in/tejpalsandhu007">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:tejpal.s.sandhu007@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
 </p>
 
+<br>
+
 ---
+
+<br>
 
 # 👨🏻‍💻 About
 
@@ -54,7 +62,11 @@ I enjoy transforming ideas into real products using modern web technologies whil
 - 📚 Currently strengthening Data Structures & Algorithms and System Design
 - 🌱 Learning by building real-world software
 
+<br>
+
 ---
+
+<br>
 
 # ⚙️ Technologies
 
@@ -152,7 +164,11 @@ Experienced with
 
 </table>
 
+<br>
+
 ---
+
+<br>
 
 # 🧠 Core Computer Science
 
@@ -162,7 +178,11 @@ Experienced with
 - Operating Systems
 - Computer Networks
 
+<br>
+
 ---
+
+<br>
 
 # 🚀 Highlighted Projects
 
@@ -296,7 +316,11 @@ Modern weather dashboard using the OpenWeather API with responsive UI and asynch
 
 </table>
 
+<br>
+
 ---
+
+<br>
 
 # 📈 GitHub Analytics
 
@@ -314,7 +338,11 @@ Modern weather dashboard using the OpenWeather API with responsive UI and asynch
 
 </p>
 
+<br>
+
 ---
+
+<br>
 
 # 📚 Currently Exploring
 
@@ -372,7 +400,11 @@ Modern weather dashboard using the OpenWeather API with responsive UI and asynch
 
 </table>
 
+<br>
+
 ---
+
+<br>
 
 # 🤝 Let's Connect
 
