@@ -62,63 +62,64 @@ I enjoy transforming ideas into real products using modern web technologies whil
 # ⚙️ Technologies
 
 <table width="100%">
-<tr>
+<tr height="140">
 <td valign="top" width="50%">
 
-### 💻 Languages
+**💻 Languages**
 <hr/>
-<p><img src="https://skillicons.dev/icons?i=cpp,c,js,python" height="40"/></p>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,python" height="40"/><br/>
 <sub>C++, C, JavaScript, Python</sub>
 
 </td>
 <td valign="top" width="50%">
 
-### 🎨 Frontend
+**🎨 Frontend**
 <hr/>
-<p><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" height="40"/></p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" height="40"/><br/>
 <sub>Also experienced with: TanStack Query, DaisyUI</sub>
 
 </td>
 </tr>
 
-<tr>
+<tr height="140">
 <td valign="top">
 
-### ⚙️ Backend
+**⚙️ Backend**
 <hr/>
-<p><img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/></p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/><br/>
 <sub>REST APIs, JWT Auth, WebSockets, Inngest</sub>
 
 </td>
 <td valign="top">
 
-### 🗄️ Database
+**🗄️ Database**
 <hr/>
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/></p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/><br/>
 <sub>MongoDB, Mongoose, MySQL, Sequelize</sub>
 
 </td>
 </tr>
 
-<tr>
+<tr height="140">
 <td valign="top">
 
-### 🛠️ Tools
+**🛠️ Tools**
 <hr/>
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="40"/></p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="40"/><br/>
 <sub>Git, GitHub, VS Code, Postman</sub>
 
 </td>
 <td valign="top">
 
-### 📚 Currently Exploring
+**📚 Currently exploring**
 <hr/>
-<p><img src="https://skillicons.dev/icons?i=docker,aws,ts" height="40"/></p>
-<sub>Docker, AWS, TypeScript, System Design</sub>
+<img src="https://skillicons.dev/icons?i=docker,aws,ts" height="40"/><br/>
+<sub>Docker, AWS, TypeScript, System design</sub>
 
 </td>
 </tr>
 </table>
+
 ---
 
 # 🧠 Core Computer Science
