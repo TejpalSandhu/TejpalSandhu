@@ -65,9 +65,13 @@ I enjoy transforming ideas into real products using modern web technologies whil
 
 # ⚙️ Technologies
 
-<table width="100%">
+<table style="width:100%">
+<colgroup>
+<col style="width:50%">
+<col style="width:50%">
+</colgroup>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### 💻 Languages
 <p>
@@ -75,7 +79,7 @@ I enjoy transforming ideas into real products using modern web technologies whil
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### 🎨 Frontend
 <p>
@@ -90,7 +94,7 @@ I enjoy transforming ideas into real products using modern web technologies whil
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### ⚙️ Backend
 <p>
@@ -104,7 +108,7 @@ I enjoy transforming ideas into real products using modern web technologies whil
 - Inngest
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### 🗄️ Databases & ORM / ODM
 <p>
@@ -120,7 +124,7 @@ I enjoy transforming ideas into real products using modern web technologies whil
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### 🛠️ Tools
 <p>
@@ -128,7 +132,7 @@ I enjoy transforming ideas into real products using modern web technologies whil
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### 📚 Currently Exploring
 - Docker
