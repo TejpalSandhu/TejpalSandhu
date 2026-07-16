@@ -42,11 +42,7 @@ ECE Undergraduate • Backend Enthusiast • Problem Solver
 
 </p>
 
-<br>
-
 ---
-
-<br>
 
 # 👨🏻‍💻 About
 
@@ -62,12 +58,7 @@ I enjoy transforming ideas into real products using modern web technologies whil
 - 📚 Currently strengthening Data Structures & Algorithms and System Design
 - 🌱 Learning by building real-world software
 
-<br>
-
 ---
-
-<br>
-
 # ⚙️ Technologies
 
 <table>
@@ -164,11 +155,7 @@ Experienced with
 
 </table>
 
-<br>
-
 ---
-
-<br>
 
 # 🧠 Core Computer Science
 
@@ -178,11 +165,7 @@ Experienced with
 - Operating Systems
 - Computer Networks
 
-<br>
-
 ---
-
-<br>
 
 # 🚀 Highlighted Projects
 
@@ -316,11 +299,7 @@ Modern weather dashboard using the OpenWeather API with responsive UI and asynch
 
 </table>
 
-<br>
-
 ---
-
-<br>
 
 # 📈 GitHub Analytics
 
@@ -338,11 +317,7 @@ Modern weather dashboard using the OpenWeather API with responsive UI and asynch
 
 </p>
 
-<br>
-
 ---
-
-<br>
 
 # 📚 Currently Exploring
 
@@ -400,11 +375,7 @@ Modern weather dashboard using the OpenWeather API with responsive UI and asynch
 
 </table>
 
-<br>
-
 ---
-
-<br>
 
 # 🤝 Let's Connect
 
