@@ -103,12 +103,13 @@ I enjoy transforming ideas into real products using modern web technologies whil
 
 ### 🗄️ Databases & ORM / ODM
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 - MongoDB
 - Mongoose
 - MySQL
+- PostgreSQL
 - Sequelize
 
 </td>
