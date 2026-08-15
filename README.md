@@ -66,7 +66,7 @@ I enjoy transforming ideas into real products using modern web technologies whil
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,mysql" />
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,mysql,postgres" />
 </p>
 
 </td>
