@@ -36,9 +36,6 @@ ECE Undergraduate • Backend Enthusiast • Problem Solver
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
 
 </p>
 
@@ -69,7 +66,7 @@ I enjoy transforming ideas into real products using modern web technologies whil
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,js,python,mysql" />
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,mysql,postgres" />
 </p>
 
 </td>
@@ -106,12 +103,13 @@ I enjoy transforming ideas into real products using modern web technologies whil
 
 ### 🗄️ Databases & ORM / ODM
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 - MongoDB
 - Mongoose
 - MySQL
+- PostgreSQL
 - Sequelize
 
 </td>
@@ -185,6 +183,34 @@ Real-time collaborative coding interview platform featuring live video calls, sh
 </p>
 
 </td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/TejpalSandhu/forgesite-ai">
+<img src="images/forgesite.png" width="100%" height="220" style="object-fit:cover;"/>
+</a>
+
+### 🤖 ForgeSite AI
+
+AI-powered website builder that transforms natural-language prompts into responsive websites with conversational revisions, visual editing, version control, and publishing.
+
+**Tech Stack**
+
+`React` • `TypeScript` • `Node.js` • `Express` • `PostgreSQL` • `Prisma` • `OpenRouter` • `Stripe`
+
+<p>
+<a href="https://github.com/TejpalSandhu/forgesite-ai">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://forgesite-ai-sepia.vercel.app/">
+<img src="https://img.shields.io/badge/Live Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/TejpalSandhu/CartPole_AI">
@@ -206,9 +232,7 @@ Deep Reinforcement Learning implementation where an intelligent agent learns to 
 </p>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/TejpalSandhu/cv-application">
@@ -233,32 +257,9 @@ Interactive resume builder with live preview, customizable templates, and instan
 </p>
 
 </td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/TejpalSandhu/Weather-app">
-<img src="images/weather.png" width="100%" height="220" style="object-fit:cover;"/>
-</a>
-
-### 🌦 Weather App
-
-Modern weather dashboard using the OpenWeather API with responsive UI and asynchronous data fetching.
-
-**Tech Stack**
-
-`JavaScript` • `REST API` • `HTML` • `CSS`
-
-<p>
-<a href="https://github.com/TejpalSandhu/Weather-app">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://tejpalsandhu.github.io/Weather-app/">
-<img src="https://img.shields.io/badge/Live Demo-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
 </tr>
 </table>
+
 
 ---
 
@@ -266,9 +267,9 @@ Modern weather dashboard using the OpenWeather API with responsive UI and asynch
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TejpalSandhu&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170em" src="https://github-readme-stats-five-pi-3ajjvy7k5v.vercel.app/api?username=TejpalSandhu&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejpalSandhu&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-five-pi-3ajjvy7k5v.vercel.app/api/top-langs/?username=TejpalSandhu&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
