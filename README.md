@@ -183,6 +183,34 @@ Real-time collaborative coding interview platform featuring live video calls, sh
 </p>
 
 </td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/TejpalSandhu/forgesite-ai">
+<img src="images/forgesite.png" width="100%" height="220" style="object-fit:cover;"/>
+</a>
+
+### 🤖 ForgeSite AI
+
+AI-powered website builder that transforms natural-language prompts into responsive websites with conversational revisions, visual editing, version control, and publishing.
+
+**Tech Stack**
+
+`React` • `TypeScript` • `Node.js` • `Express` • `PostgreSQL` • `Prisma` • `OpenRouter` • `Stripe`
+
+<p>
+<a href="https://github.com/TejpalSandhu/forgesite-ai">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://forgesite-ai-sepia.vercel.app/">
+<img src="https://img.shields.io/badge/Live Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/TejpalSandhu/CartPole_AI">
@@ -204,9 +232,7 @@ Deep Reinforcement Learning implementation where an intelligent agent learns to 
 </p>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/TejpalSandhu/cv-application">
@@ -231,32 +257,9 @@ Interactive resume builder with live preview, customizable templates, and instan
 </p>
 
 </td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/TejpalSandhu/Weather-app">
-<img src="images/weather.png" width="100%" height="220" style="object-fit:cover;"/>
-</a>
-
-### 🌦 Weather App
-
-Modern weather dashboard using the OpenWeather API with responsive UI and asynchronous data fetching.
-
-**Tech Stack**
-
-`JavaScript` • `REST API` • `HTML` • `CSS`
-
-<p>
-<a href="https://github.com/TejpalSandhu/Weather-app">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://tejpalsandhu.github.io/Weather-app/">
-<img src="https://img.shields.io/badge/Live Demo-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
 </tr>
 </table>
+
 
 ---
 
