@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Banner.png" alt="Banner: Tejpal Singh Sandhu, Full Stack &amp; AI Developer" width="100%" />
+  <img src="images/profile-banner.png" alt="Banner: Tejpal Singh Sandhu, Full Stack &amp; AI Developer" width="100%" />
 </p>
 
 <br>
